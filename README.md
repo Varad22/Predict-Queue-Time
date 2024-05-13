@@ -53,6 +53,6 @@ Waiting in long queues at hospitals can be frustrating, especially when you're a
   source env/bin/activate
   ```
 
-5. Move the `app.py` file, `templates` folder, and `static` folder to the virtual environment created.
+5. Install the required dependencies.
 
 6. Run the Flask application.
